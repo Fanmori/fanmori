@@ -81,9 +81,7 @@ From **BGP routing** to **RESTful APIs**, from **packet analysis** to **database
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **[NetWatch](https://github.com/Fanmori/netwatch)** | Real‑time network monitoring & anomaly detection with SNMPv3 + ML | `Python` `Prometheus` `Grafana` `TensorFlow` |
-| **[Apollo Gateway](https://github.com/Fanmori/apollo-gateway)** | Layer‑7 API gateway with rate limiting, JWT, and circuit breaker | `Go` `Redis` `gRPC` `Envoy` |
-| **[PacketFence](https://github.com/Fanmori/packetfence)** | Distributed packet capture and analysis tool for 10G+ networks | `Rust` `libpcap` `Kafka` `Elasticsearch` |
+| **[NetWatch](https://github.com/Fanmori/fanmori-edge)** | cloudflare edge worker | 
 
 > 💡 *Replace the repo links with your actual projects.*
 
