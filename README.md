@@ -64,12 +64,15 @@ From **BGP routing** to **RESTful APIs**, from **packet analysis** to **database
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Fanmori&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=84CC16&icon_color=84CC16&text_color=FFFFFF" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Fanmori&theme=radical&hide_border=true&background=0D1117&stroke=84CC16&ring=84CC16&fire=84CC16&currStreakLabel=84CC16" />
+  <!-- Stats Card - نمایش آمار کلی -->
+  <img width="49%" src="https://gh-stats.com/api/Fanmori?show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=84CC16&icon_color=84CC16&text_color=FFFFFF" />
+  
+  <!-- Streak Card - نمایش رکورد فعالیت روزانه (جایگزین سرویس خراب) -->
+  <img width="49%" src="https://gh-stats.com/api/streak/Fanmori?theme=radical&hide_border=true&background=0D1117&stroke=84CC16&ring=84CC16&fire=84CC16&currStreakLabel=84CC16" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fanmori&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=84CC16&text_color=FFFFFF" />
+  <img src="https://gh-stats.com/api/top-langs/Fanmori?layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=84CC16&text_color=FFFFFF" />
 </div>
 
 ---
