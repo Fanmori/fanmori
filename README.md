@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=32&duration=3500&pause=500&color=84CC16&center=true&vCenter=true&width=600&lines=Network+%26+Backend+Architect;High‑Performance+Web+Systems;Packet+%7C+API+%7C+Cloud" />
+  <img src="[https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=32&duration=3500&pause=500&color=84CC16&center=true&vCenter=true&width=600&lines=Network+%26+Backend+Architect;High‑Performance+Web+Systems;Packet+%7C+API+%7C+Clou](https://avatars.githubusercontent.com/u/190165253?v=4" />
 </div>
 
 <h1 align="center">
