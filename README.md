@@ -1,103 +1,107 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=2E9AFF&center=true&vCenter=true&width=500&lines=Network+Engineer;Backend+Developer;Web+Architect" alt="Typing SVG" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=32&duration=3500&pause=500&color=00D9FF&center=true&vCenter=true&width=600&lines=Network+%26+Backend+Architect;High‑Performance+Web+Systems;Packet+%7C+API+%7C+Cloud" />
+</p>
 
-<h1 align="center">سلام 👋، من [نام شما] هستم</h1>
-<h3 align="center">مهندس شبکه | توسعه‌دهنده بک‌اند | معمار وب</h3>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" /> 
+  Hi, I'm <span style="color:#00D9FF;">[Your Name]</span>
+</h1>
+
+<h3 align="center">⚡ Network Engineer • Backend Developer • Web Perfectionist ⚡</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[username]&label=بازدید+پروفایل&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://github.com/[username]?tab=followers">
-    <img src="https://img.shields.io/github/followers/[username]?label=دنبال‌کنندگان&style=social" alt="followers" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=[your-username]&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/[your-username]?label=FOLLOWERS&style=for-the-badge&logo=github&color=00D9FF" />
+  <img src="https://img.shields.io/badge/🚀_READY_TO_COLLABORATE-00D9FF?style=for-the-badge" />
 </p>
 
 ---
 
-### 🧑‍💻 درباره من
+### 🧠 About the Architect
 
-- 🎓 **تخصص:** طراحی و پیاده‌سازی زیرساخت‌های شبکه، توسعه APIهای مقیاس‌پذیر و معماری سمت سرور.
-- 🌐 **حوزه فعالیت:** از لایه فیزیکی شبکه (Routing/Switching) تا لایه اپلیکیشن (RESTful، GraphQL، gRPC).
-- 🛠️ **رویکرد کاری:** علاقه‌مند به اتوماسیون شبکه با پایتون، بهینه‌سازی دیتابیس و استقرار امن سرویس‌ها.
-- 📫 **ارتباط:** [ایمیل شما] | [لینکدین] | [توییتر/تلگرام]
+I build **robust networks**, **scalable backends**, and **secure web infrastructures**.  
+From **BGP routing** to **RESTful APIs**, from **packet analysis** to **database sharding** — I speak both the language of switches and microservices.
+
+- 🧩 **Core focus:** Network automation (Python/Ansible), high‑throughput APIs, cloud‑native design.
+- 🎯 **Currently exploring:** eBPF, service mesh (Istio), and WebAssembly on the edge.
+- 📫 **Reach me:** [Email](mailto:you@example.com) • [LinkedIn](https://linkedin.com/in/yourname) • [Telegram](https://t.me/yourhandle)
 
 ---
 
-### 🚀 مهارت‌های حرفه‌ای
+### 🛠️ Tech Stack & Toolbox
 
-#### 🌐 شبکه (Network)
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+#### 🌐 Network Engineering
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
-![Routing & Switching](https://img.shields.io/badge/Routing%20%26%20Switching-006600?style=for-the-badge)
-![Firewall](https://img.shields.io/badge/Firewall-FF4F00?style=for-the-badge)
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
+![FRRouting](https://img.shields.io/badge/FRRouting-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
-#### ⚙️ بک‌اند (Backend)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+#### ⚙️ Backend Engineering
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
-#### 💾 دیتابیس و میان‌افزار
-![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+#### 💾 Databases & Messaging
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
-#### 🧰 ابزارها و DevOps
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+#### ☁️ DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ---
 
-### 📊 آمار گیت‌هاب
+### 📈 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=[username]&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9AFF&icon_color=2E9AFF" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=[username]&theme=radical&hide_border=true&background=0D1117&stroke=2E9AFF&ring=2E9AFF&fire=2E9AFF" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=[your-username]&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[username]&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9AFF" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-username]&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
 </div>
 
 ---
 
-### 🔧 پروژه‌های شاخص
+### 🧩 Featured Projects
 
-| پروژه | توضیحات | تکنولوژی‌ها |
-|-------|---------|--------------|
-| **[NetMonster]** | سیستم مانیتورینگ شبکه با قابلیت هشدار لحظه‌ای و تحلیل ترافیک | `Python` `FastAPI` `SNMP` `InfluxDB` `Grafana` |
-| **[CloudRouter]** | API گیت‌وی مسیریاب ابری با پشتیبانی از BGP و قوانین فایروال | `Go` `gRPC` `Redis` `Docker` `Kubernetes` |
-| **[AuthGuard]** | سرویس احراز هویت متمرکز (SSO) با قابلیت MFA و OAuth2 | `Spring Boot` `JWT` `PostgreSQL` `Keycloak` |
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **[NetWatch](https://github.com/yourusername/netwatch)** | Real‑time network monitoring & anomaly detection with SNMPv3 + ML | `Python` `Prometheus` `Grafana` `TensorFlow` |
+| **[Apollo Gateway](https://github.com/yourusername/apollo-gateway)** | Layer‑7 API gateway with rate limiting, JWT, and circuit breaker | `Go` `Redis` `gRPC` `Envoy` |
+| **[PacketFence](https://github.com/yourusername/packetfence)** | Distributed packet capture and analysis tool for 10G+ networks | `Rust` `libpcap` `Kafka` `Elasticsearch` |
 
-*(لینک پروژه‌های واقعی خود را جایگزین کنید)*
-
----
-
-### 📈 فعالیت اخیر
-
-<!-- می‌توانید از GitHub Actions برای آپدیت خودکار این بخش استفاده کنید -->
-- 🎯 در حال توسعه یک **Load Balancer سفارشی** با قابلیت پشتیبانی از لایه ۴ و ۷
-- 📖 مطالعه: `TCP/IP Illustrated` و `Designing Data-Intensive Applications`
-- 🤝 به دنبال همکاری در پروژه‌های **Open Source** مرتبط با **Network Automation** و **Backend**
+> 💡 *Click on the titles to see live demos or source code.*
 
 ---
 
-<div align="center">
-  <i>“ساختن زیرساخت‌های مطمئن و کدنویسی تمیز، دو روی یک سکه هستند.”</i>
-  <br /><br />
-  <a href="https://ir.linkedin.com/in/[username]">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+### 🎯 Current & Next
+
+- 🔨 **Building:** A lightweight eBPF-based load balancer for Kubernetes (L4/L7).
+- 📖 **Reading:** *“Computer Networking: A Top-Down Approach”* & *“DDIA”*.
+- 🤝 **Open to:** Collaborations on **network automation**, **API design**, or **high‑performance web servers**.
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&gradientColorStart=00D9FF&gradientColorEnd=0B3B60"/>
+</p>
+
+<p align="center">
+  <i>“Reliable networks, clean code, and zero‑trust by design.”</i>
+  <br/>
+  <a href="https://github.com/yourusername">
+    <img src="https://img.shields.io/badge/⚡_Explore_my_repos-181717?style=for-the-badge&logo=github&logoColor=00D9FF" />
   </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://t.me/[username]">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-</div>
+</p>
