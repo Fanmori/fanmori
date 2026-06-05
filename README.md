@@ -4,14 +4,14 @@
 
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" /> 
-  Hi, I'm <span style="color:#00D9FF;">[Your Name]</span>
+  Hi, I'm <span style="color:#00D9FF;">[Abolfazl</span>
 </h1>
 
 <h3 align="center">⚡ Network Engineer • Backend Developer • Web Perfectionist ⚡</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[your-username]&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/[your-username]?label=FOLLOWERS&style=for-the-badge&logo=github&color=00D9FF" />
+  <img src="https://komarev.com/ghpvc/?Fanmori=Fanmori&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Fanmori?label=FOLLOWERS&style=for-the-badge&logo=github&color=00D9FF" />
   <img src="https://img.shields.io/badge/🚀_READY_TO_COLLABORATE-00D9FF?style=for-the-badge" />
 </p>
 
@@ -24,7 +24,7 @@ From **BGP routing** to **RESTful APIs**, from **packet analysis** to **database
 
 - 🧩 **Core focus:** Network automation (Python/Ansible), high‑throughput APIs, cloud‑native design.
 - 🎯 **Currently exploring:** eBPF, service mesh (Istio), and WebAssembly on the edge.
-- 📫 **Reach me:** [Email](mailto:you@example.com) • [LinkedIn](https://linkedin.com/in/yourname) • [Telegram](https://t.me/yourhandle)
+- 📫 **Reach me:** [Email](mailto:you@example.com) • [LinkedIn](https://linkedin.com/in/) • [Telegram](https://t.me/Fanmori)
 
 ---
 
@@ -64,12 +64,12 @@ From **BGP routing** to **RESTful APIs**, from **packet analysis** to **database
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=[your-username]&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Fanmori&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Fanmori&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-username]&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fanmori&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
 </div>
 
 ---
@@ -78,9 +78,9 @@ From **BGP routing** to **RESTful APIs**, from **packet analysis** to **database
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **[NetWatch](https://github.com/yourusername/netwatch)** | Real‑time network monitoring & anomaly detection with SNMPv3 + ML | `Python` `Prometheus` `Grafana` `TensorFlow` |
-| **[Apollo Gateway](https://github.com/yourusername/apollo-gateway)** | Layer‑7 API gateway with rate limiting, JWT, and circuit breaker | `Go` `Redis` `gRPC` `Envoy` |
-| **[PacketFence](https://github.com/yourusername/packetfence)** | Distributed packet capture and analysis tool for 10G+ networks | `Rust` `libpcap` `Kafka` `Elasticsearch` |
+| **[NetWatch](https://github.com/Fanmori/netwatch)** | Real‑time network monitoring & anomaly detection with SNMPv3 + ML | `Python` `Prometheus` `Grafana` `TensorFlow` |
+| **[Apollo Gateway](https://github.com/Fanmori/apollo-gateway)** | Layer‑7 API gateway with rate limiting, JWT, and circuit breaker | `Go` `Redis` `gRPC` `Envoy` |
+| **[PacketFence](https://github.com/Fanmori/packetfence)** | Distributed packet capture and analysis tool for 10G+ networks | `Rust` `libpcap` `Kafka` `Elasticsearch` |
 
 > 💡 *Click on the titles to see live demos or source code.*
 
@@ -101,7 +101,7 @@ From **BGP routing** to **RESTful APIs**, from **packet analysis** to **database
 <p align="center">
   <i>“Reliable networks, clean code, and zero‑trust by design.”</i>
   <br/>
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/Fanmori">
     <img src="https://img.shields.io/badge/⚡_Explore_my_repos-181717?style=for-the-badge&logo=github&logoColor=00D9FF" />
   </a>
 </p>
